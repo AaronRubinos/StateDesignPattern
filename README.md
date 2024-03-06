@@ -24,3 +24,4 @@ Implement the State pattern to improve code maintainability and flexibility:
   * Introduce a reference to the current AccountState object.
   * Delegate actions like deposit, withdraw, activate, suspend, and close to the current state object through its corresponding methods.
 
+# UML Diagram
