@@ -25,3 +25,6 @@ Implement the State pattern to improve code maintainability and flexibility:
   * Delegate actions like deposit, withdraw, activate, suspend, and close to the current state object through its corresponding methods.
 
 # UML Diagram
+![StateDesignPattern](https://github.com/AaronRubinos/StateDesignPattern/assets/142986554/260b9dd5-4b56-492b-ab7b-03b031e9f651)
+
+
